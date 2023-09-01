@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitul Patidar</h1>
 <h3 align="center">Aspiring Data Scientist with a strong foundation in data analysis, machine learning, and programming. Eager to apply my analytical skills and expertise in Python, SQL, and machine learning algorithms to extract actionable insights from complex datasets. Seeking a challenging role where I can leverage my proficiency in data preprocessing, visualization, and predictive modeling to contribute to data-driven decision-making and innovative solutions.</h3>
 
-<p align="right">  <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHrozbm8TH6yA/feedshare-shrink_1280/0/1689412336127?e=1696464000&v=beta&t=gJtjwpPFH1kUJV-8je0R3mHJqUOsi90mVzHiywHxhu4">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHrozbm8TH6yA/feedshare-shrink_1280/0/1689412336127?e=1696464000&v=beta&t=gJtjwpPFH1kUJV-8je0R3mHJqUOsi90mVzHiywHxhu4">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitul-01&label=Profile%20views&color=0e75b6&style=flat" alt="mitul-01" /> </p>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mitul_patidar01" target="blank"><img src="https://img.shields.io/twitter/follow/mitul_patidar01?logo=twitter&style=for-the-badge" alt="mitul_patidar01" /></a> </p>
 
-- 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Deep learning, PowerBI**
+- 💬 Ask me about **MS Excel, Python, SQL, Tableau, Machine Learning, Deep learning, PowerBI**
 
 - 📫 How to reach me **mitulpatidar01@gmail.com**
 
