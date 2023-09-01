@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mitul_patidar01" target="blank"><img src="https://img.shields.io/twitter/follow/mitul_patidar01?logo=twitter&style=for-the-badge" alt="mitul_patidar01" /></a> </p>
 
-- 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Deep learning, Tableau**
+- 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Deep learning, PowerBI**
 
 - 📫 How to reach me **mitulpatidar01@gmail.com**
 
