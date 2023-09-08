@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Chess, Football, Cricket**
 
-- Kaggle: **Dataset and Discussion Expert**
+- Kaggle: Dataset and Discussion **Expert**
 
 
 <h3 align="left">Connect with me:</h3>
