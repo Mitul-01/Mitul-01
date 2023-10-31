@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mitul_patidar01" target="blank"><img src="https://img.shields.io/twitter/follow/mitul_patidar01?logo=twitter&style=for-the-badge" alt="mitul_patidar01" /></a> </p>
 
-- 💬 Ask me about **MS Excel, Python, SQL, Tableau, Machine Learning, Deep learning, PowerBI, Statistics, NLP**
+- 💬 Ask me about **MS Excel, Python, SQL, Tableau, Machine Learning, Deep learning, PowerBI, Statistics, Natural Language Processing**
 
 - You can follow me on Linkdin **https://www.linkedin.com/in/mitulpatidar/**
 
