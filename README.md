@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitul Patidar</h1>
-<p  align="justify">Former Data Science Intern with a strong foundation in data analysis, machine learning, and programming. Eager to apply my analytical skills and expertise in Python, SQL, Excel, Power BI, Tableau, Statistics and machine learning algorithms to extract actionable insights from complex datasets. Seeking a challenging role where I can leverage my proficiency in data preprocessing, visualization, and predictive modeling to contribute to data-driven decision-making and innovative solutions.</p>
+<p  align="justify">Former Data Science Intern with a strong foundation in data analysis, machine learning, and programming. Eager to apply my analytical skills and expertise in Python, SQL, Excel, Power BI, Tableau, Statistics and machine learning algorithms to extract actionable insights from complex datasets. Seeking a challenging role where I can leverage my proficiency in data preprocessing, visualization, and predictive modeling to contribute to data-driven decision-making and innovative solution.</p>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHrozbm8TH6yA/feedshare-shrink_1280/0/1689412336127?e=1696464000&v=beta&t=gJtjwpPFH1kUJV-8je0R3mHJqUOsi90mVzHiywHxhu4">
 
